@@ -10,6 +10,7 @@ function writePassword() {
 
 }
 
+// Function to randomly generate a password
 function generatePassword() {
   return "hello" + Date();
 }
